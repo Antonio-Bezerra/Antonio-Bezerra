@@ -1,10 +1,18 @@
-<h2 align="left">Hi 👋! My name is Antonio Bezerra, I'm a computer engineering student.</h2>
+<h1> Olá, bem vindo(a) ao meu perfil! </h1>
 
-###
+<ul>
+  <li>🖥️ Estudante de Engenharia da Computação IFMA.</li>
+  <li>🔮 Materializando ideias em códigos desde 2024!</li>
+</ul>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonio-Bezerra&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antonio-Bezerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+##
+
+<br>
+<div align="center" display="inline-block">
+  <a href="https://github.com/mariakarolinesvg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bezerra&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bezerra&layout=compact&langs_count=7&theme=react" />
+
 </div>
 
 ###
@@ -14,7 +22,7 @@
 ###
 
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,c,java,python,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,c,java,python,arduino" />
 </div>
 
 ###
