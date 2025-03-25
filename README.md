@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Antonio Agostinho, I'm a computer engineering student.</h2>
+<h2 align="left">Hi 👋! My name is Antonio Bezerra, I'm a computer engineering student.</h2>
 
 ###
 
