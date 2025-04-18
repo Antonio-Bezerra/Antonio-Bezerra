@@ -10,8 +10,8 @@
 <br>
 <div align="center" display="inline-block">
   <a href="https://github.com/mariakarolinesvg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bezerra&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bezerra&layout=compact&langs_count=7&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bezerra&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bezerra&layout=compact&langs_count=7&theme=github_dark_dimmed" />
 
 </div>
 
@@ -22,7 +22,7 @@
 ###
 
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,c,java,python,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,c,java,python" />
 </div>
 
 ###
