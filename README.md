@@ -37,7 +37,7 @@
 ###
 
 <picture align="center">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Antonio-Bezerra/Antonio-Bezerra/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Antonio-Bezerra/Antonio-Bezerra/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
